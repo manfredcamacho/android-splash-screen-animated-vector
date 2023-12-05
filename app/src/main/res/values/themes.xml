@@ -6,4 +6,11 @@
     </style>
 
     <style name="Theme.SplashScreenDemo" parent="Base.Theme.SplashScreenDemo" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreenDemo">
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/avd_telefonica</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.SplashScreenDemo</item>
+    </style>
 </resources>
