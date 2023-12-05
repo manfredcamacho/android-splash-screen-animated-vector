@@ -12,3 +12,8 @@ Splash screens are the first impression users get when launching your app. This 
 
 - **Animated Vector**: Utilizes the official Android API to seamlessly integrate animated vectors into the splash screen.
 - **Compatibility**: Designed for Android version 12 and above, ensuring a modern and consistent user experience.
+
+## Utils
+- Create/Edit SVGs using [Figma](https://www.figma.com/)
+- Follow the recommended [Splash screen dimensions](https://developer.android.com/develop/ui/views/launch/splash-screen)
+- Add animations to your SVGs using [Shape Shifter](https://shapeshifter.design/)
